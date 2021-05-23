@@ -1,5 +1,4 @@
-var mes_text = ["Enero", " cd .git
-ro", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"];
+var mes_text = ["Enero","Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"];
 
 var dia_text = ["Dom", "Lun", "Mar", "Mie", "Juv", "Vie", "Sab"];
 
