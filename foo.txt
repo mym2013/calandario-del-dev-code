@@ -1,0 +1,5 @@
+esto es un texto plano sólo de prueba
+no
+ es 
+ importante el contenido sino, la operación que haremos con el 
+ para con git
